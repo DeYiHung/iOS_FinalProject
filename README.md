@@ -1,4 +1,5 @@
-## IOS Final Project : Social media
+# IOS Final Project : Social media
+
 電資三 108820005 洪德易
 電資三 108820011 荘⼠頡
 
@@ -12,7 +13,7 @@
 
 <img width="605" alt="截圖 2024-09-10 晚上8 20 51" src="https://github.com/user-attachments/assets/deddbe49-0a56-4fd1-b4aa-e71c766e7e70">
 
-##iOS使⽤功能
+## iOS使⽤功能
 
 (1)Camera/Photo Libary: 選擇要上傳的圖片
 (2)Core Data: User entity, Post entity, Chatbox entity, FriendList entity
